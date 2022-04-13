@@ -1,7 +1,7 @@
 import './App.css';
 import Branding from './components/molecules/Branding';
-import Content from './components/molecules/ContentArea';
-import SiteFooter from './components/molecules/SiteFooter';
+import Content from './components/views/ContentArea';
+import SiteFooter from './components/organisms/SiteFooter';
 
 // Navigation Bar Component
 function Navigation() {

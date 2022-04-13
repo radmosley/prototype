@@ -1,0 +1,6 @@
+{
+  "declaration": "let",
+  "type": "varible",
+  "container": "container",
+  "value": [1, 2, 3, 4, 5]
+}
