@@ -1,0 +1,21 @@
+.card-item {
+  /* background: rgb(243, 243, 243); */
+  border: 1px #808080 solid;
+  background: rgb(240, 240, 240);
+  padding: 0.75em;
+  display: block;
+  float: left;
+  overflow: auto;
+}
+
+.card-item-operator {
+  padding: 0.74em;
+}
+
+.declaration-variable {
+  color: rgb(2, 143, 156);
+}
+
+.card-item-container {
+  color: rgb(219, 111, 49);
+}
